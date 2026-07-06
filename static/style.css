@@ -1,0 +1,37 @@
+body{
+
+    background:#eef5ff;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+.card{
+
+    border-radius:20px;
+
+}
+
+.card-header{
+
+    border-radius:20px 20px 0 0 !important;
+
+}
+
+input{
+
+    border-radius:10px !important;
+
+}
+
+button{
+
+    border-radius:10px !important;
+
+}
+
+label{
+
+    font-size:14px;
+
+}
