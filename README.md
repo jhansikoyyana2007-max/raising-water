@@ -225,7 +225,7 @@ Government agencies evaluate the prediction model using historical flood records
 
 ## Author
 
-**Name:** *Your Name*
+**Name:bommali yogeswari
 
 **Institution:** *Your College Name*
 
